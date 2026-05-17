@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Furkan%20KIRAK&fontSize=42&fontColor=f0f6fc&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Enthusiast%20%7C%20Embedded%20Systems&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:1f6feb,100:58a6ff&height=200&text=Furkan%20KIRAK&fontSize=50&fontColor=f0f6fc&animation=twinkling&stroke=58a6ff&strokeWidth=1" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%92%BB+Building+Smart+%26+Scalable+Solutions;%F0%9F%8E%93+Computer+Engineering+Student;%F0%9F%9A%80+Exploring+the+Edge+of+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%8E%93+Computer+Engineering+%40+SAU;%F0%9F%9A%80+Building+Smart+Solutions;%E2%9A%99%EF%B8%8F+Embedded+Systems+Enthusiast)](https://git.io/typing-svg)
 
 <!-- Profile Badges -->
 <br/>
 
-<a href="https://github.com/furkankirak">
-  <img src="https://img.shields.io/badge/GitHub-furkankirak-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/furkan-k%C4%B1rak-4226041b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/furkankirak?tab=followers">
   <img src="https://img.shields.io/github/followers/furkankirak?label=Followers&style=for-the-badge&logo=github&color=1f6feb&logoColor=white" />
@@ -23,18 +23,19 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Hakkımda
 
-```yaml
-ad: "Furkan KIRAK"
-rol: "Bilgisayar Mühendisliği Öğrencisi"
-konum: "Türkiye 🇹🇷"
-ilgi_alanları:
-  - Full-Stack Web Geliştirme
-  - Gömülü Sistemler & RTOS
-  - Paralel & Dağıtık Programlama
-  - Veri Yapıları & Algoritmalar
-  - Otomasyon & Bildirim Sistemleri
-motto: "Kod yazmak sadece bir araç, asıl mesele gerçek problemlere çözüm üretmek."
-```
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+🎓 &nbsp;**Sakarya Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim. &nbsp;📍 *Kocaeli*
+
+💡 &nbsp;Gerçek dünya problemlerine yazılım ile çözüm üretmeyi seviyorum.
+
+🌱 &nbsp;Full-Stack Web, Gömülü Sistemler ve Paralel Programlama alanlarında kendimi geliştiriyorum.
+
+⚡ &nbsp;Boş zamanlarımda yeni teknolojiler keşfetmekten ve otomasyon araçları geliştirmekten keyif alıyorum.
+
+🎯 &nbsp;Hedefim; kullanıcı odaklı, ölçeklenebilir ve performanslı yazılımlar üretmek.
+
+📫 &nbsp;Bana ulaşın: **furkan4933@gmail.com**
 
 <br/>
 
@@ -249,18 +250,14 @@ Fitness merkezi yönetim sistemi. C# ve ASP.NET ile geliştirilmiş, üye kayıt
 
 <br/>
 
-## 🏆 &nbsp;GitHub Başarıları
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=furkankirak&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</div>
-
-<br/>
-
 ## 🐍 &nbsp;Katkı Animasyonu
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/furkankirak/furkankirak/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkankirak/furkankirak/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkankirak/furkankirak/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/furkankirak/furkankirak/output/github-snake.svg" />
+  </picture>
 </div>
 
 <br/>
@@ -271,11 +268,21 @@ Fitness merkezi yönetim sistemi. C# ve ASP.NET ile geliştirilmiş, üye kayıt
 
 ### 💬 Benimle İletişime Geçin
 
+<a href="https://www.linkedin.com/in/furkan-k%C4%B1rak-4226041b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:furkan4933@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://github.com/furkankirak">
-  <img src="https://img.shields.io/badge/GitHub-furkankirak-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
+
+<sub>⭐ Projelerimi beğendiysen yıldız bırakmayı unutma!</sub>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
 
