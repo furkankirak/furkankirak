@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="./assets/banner.png" />
+<img width="100%" src="./assets/banner2.png" />
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%8E%93+Computer+Engineering+%40+SAU;%F0%9F%9A%80+Building+Smart+Solutions;%E2%9A%99%EF%B8%8F+Embedded+Systems+Enthusiast)](https://git.io/typing-svg)
@@ -25,7 +25,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-🎓 &nbsp;**Sakarya Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim. &nbsp;📍 *Kocaeli*
+🎓 &nbsp;**Sakarya Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim. &nbsp;📍 *Kocaeli/Türkiye*
 
 💡 &nbsp;Gerçek dünya problemlerine yazılım ile çözüm üretmeyi seviyorum.
 
