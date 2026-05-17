@@ -29,7 +29,7 @@
 
 💡 &nbsp;Gerçek dünya problemlerine yazılım ile çözüm üretmeyi seviyorum.
 
-🌱 &nbsp;Full-Stack Web, Gömülü Sistemler ve Paralel Programlama alanlarında kendimi geliştiriyorum.
+🌱 &nbsp;Full-Stack Web,Mobil uygulama geliştirme Gömülü Sistemler ve Paralel Programlama alanlarında kendimi geliştiriyorum.
 
 ⚡ &nbsp;Boş zamanlarımda yeni teknolojiler keşfetmekten ve otomasyon araçları geliştirmekten keyif alıyorum.
 
